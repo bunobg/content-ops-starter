@@ -108,7 +108,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Събития
-        tagline: от сватби
+        tagline: ''
         subtitle: ''
         text: >
           Заснемам различни събития – от сватби и рождени дни, до фирмени
