@@ -640,7 +640,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Свържете се с мен
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
