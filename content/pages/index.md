@@ -187,8 +187,10 @@ sections:
         title: 'Видеопродукция '
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Създаване на динамични и въздействащи видеа – от концепция и заснемане
+          до финален монтаж.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
