@@ -159,7 +159,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Природна фотография
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >+
           Запечатване на красотата на природата – от величествени планини до
