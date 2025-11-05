@@ -51,6 +51,50 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - subtitle: ''
+    text: >+
+      Здравей, аз съм Влад. Започнах да снимам още като дете и никога не спрях.
+      С годините се озовах зад кулисите на филми, сериали и реклами, работейки в
+      екип като осветител, грип, оператор и фотограф. Това ми даде шанс да видя
+      как се правят мащабни продукции и да науча тънкостите на занаята.
+
+
+      Днес снимам с усмивка и се старая всеки кадър да изглежда естествено, без
+      излишни клишета – просто истински моменти, уловени по най-добрия начин. За
+      личните си проекти работя и по постпродукцията – монтаж, цветови корекции
+      и ретуш. Така държа целия процес под мой контрол, защото вярвам, че
+      обработката е толкова важна, колкото и самото заснемане, за да се получи
+      наистина завършен резултат.
+
+
+
+    actions:
+      - label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
+    media:
+      url: /images/37949232_2305331816151188_2422408236943540224_n.jpg
+      altText: Fun feature preview
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
@@ -99,50 +143,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: ''
-    text: >+
-      Здравей, аз съм Влад. Започнах да снимам още като дете и никога не спрях.
-      С годините се озовах зад кулисите на филми, сериали и реклами, работейки в
-      екип като осветител, грип, оператор и фотограф. Това ми даде шанс да видя
-      как се правят мащабни продукции и да науча тънкостите на занаята.
-
-
-      Днес снимам с усмивка и се старая всеки кадър да изглежда естествено, без
-      излишни клишета – просто истински моменти, уловени по най-добрия начин. За
-      личните си проекти работя и по постпродукцията – монтаж, цветови корекции
-      и ретуш. Така държа целия процес под мой контрол, защото вярвам, че
-      обработката е толкова важна, колкото и самото заснемане, за да се получи
-      наистина завършен резултат.
-
-
-
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/37949232_2305331816151188_2422408236943540224_n.jpg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
