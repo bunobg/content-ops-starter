@@ -231,7 +231,7 @@ sections:
       - type: FeaturedItem
         title: 'Видеопродукция '
         tagline: ''
-        subtitle: T
+        subtitle: ''
         text: >+
           Създаване на динамични и въздействащи видеа – от концепция и заснемане
           до финален монтаж.
