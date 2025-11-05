@@ -658,7 +658,7 @@ sections:
       <Framesbyvlad@gmail.com>
     media:
       fields:
-        - name: name
+        - name: Име
           label: Name
           hideLabel: true
           placeholder: Your name
