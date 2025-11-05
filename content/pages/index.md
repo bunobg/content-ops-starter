@@ -186,7 +186,7 @@ sections:
       - type: FeaturedItem
         title: 'Видеопродукция '
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: T
         text: >+
           Създаване на динамични и въздействащи видеа – от концепция и заснемане
           до финален монтаж.
