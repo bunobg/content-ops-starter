@@ -91,7 +91,7 @@ sections:
         text: "Естествени и емоционални портрети сред красиви пейзажи и градски локации, с внимание към детайла и атмосферата.\_ Подходящо за социални мрежи, професионални профили (LinkedIn, Instagram, Facebook и др.), лични брандове или просто за спомен.\n\n"
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/unnamed.jpg
           altText: Placeholder text
           styles:
             self:
