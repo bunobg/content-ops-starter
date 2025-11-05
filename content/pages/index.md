@@ -675,7 +675,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Вашето съобщение
           width: full
           type: TextareaFormControl
       elementId: contact-form
