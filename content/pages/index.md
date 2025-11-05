@@ -160,7 +160,7 @@ sections:
       - type: FeaturedItem
         title: Природна фотография
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           Запечатване на красотата на природата – от величествени планини до
           нежни детайли на цветя.
