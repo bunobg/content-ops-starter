@@ -161,8 +161,10 @@ sections:
         title: Природна фотография
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Запечатване на красотата на природата – от величествени планини до
+          нежни детайли на цветя.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
