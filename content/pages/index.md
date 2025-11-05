@@ -693,7 +693,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Изпрати
         showIcon: false
         icon: arrowRight
         iconPosition: right
