@@ -110,8 +110,12 @@ sections:
         title: Събития
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Заснемам различни събития – от сватби и рождени дни, до фирмени
+          тиймбилдинги и концерти. Стремя се да уловя атмосферата, емоциите и
+          всички онези малки моменти, които правят деня специален. Работя
+          дискретно и ненатрапчиво, за да запазя естествените реакции и
+          искрените усмивки.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
