@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Какво мога да предложа за вашия специален момент
     items:
       - type: FeaturedItem
         title: 500k
