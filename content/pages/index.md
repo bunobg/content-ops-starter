@@ -168,7 +168,7 @@ sections:
         text: "Въздушни снимки с уникална перспектива за пейзажи, събития или обекти, заснети от височина\_\n\n"
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/unnamed (3).jpg
           altText: Placeholder text
           styles:
             self:
