@@ -185,7 +185,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: 'Видеопродукция '
-        tagline: This is the tagline
+        tagline: ''
         subtitle: T
         text: >+
           Създаване на динамични и въздействащи видеа – от концепция и заснемане
