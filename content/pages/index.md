@@ -213,8 +213,7 @@ sections:
         title: Зад кадър
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "Истинските моменти зад камерата – процесът на работа, емоциите и забавните ситуации по време на снимки.\_\n\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
