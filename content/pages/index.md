@@ -344,11 +344,7 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Историите са навсякъде около нас – в усмивките, в погледите, в малките жестове.\nАз ги превръщам в кадри и видеа, които ще запазите за цял живот.\n\nЗаснемам сватби, кръщенета, юбилеи, рождени дни, както и музикални клипове, корпоративни събития, тиймбилдинги и концерти. Ако мечтаете за портрети – на открито или в студио – ще направя всичко, за да се чувствате спокойни и уверени пред камерата.\n\nПредлагам и дрон фотография за онези кадри, които карат зрителя да ахне.\nА видеата, които създавам, разказват истории – от първия кадър до последния монтаж.\n\nРаботя в цяла България\_– София, Плевен, Велико Търново, Русе, Пловдив, Варна, Бургас, Стара Загора и още много други места. Където и да е вашият специален ден, ще бъда там, за да го запазя по най-красивия начин.\n\nНека заедно създадем спомени, които няма да избледнеят.\n\n\n\n"
     actions: []
     media:
       title: Title of the video
