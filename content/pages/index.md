@@ -137,7 +137,7 @@ sections:
       - type: FeaturedItem
         title: Дрон фотография
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: "Въздушни снимки с уникална перспектива за пейзажи, събития или обекти, заснети от височина\_\n\n"
         image:
           type: ImageBlock
