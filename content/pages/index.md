@@ -52,7 +52,7 @@ sections:
       color: text-dark
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Услуги
       color: text-dark
       styles:
         self:
