@@ -61,13 +61,13 @@ sections:
     subtitle: Какво мога да предложа за вашия специален момент
     items:
       - type: FeaturedItem
-        title: Снимки в студио
+        title: Фотосесия – портрети на открито
         tagline: ''
         subtitle: ''
-        text: "Професионални студийни фотосесии с контролирано осветление и фонове, за постигане на перфектната визия.\_\_Подходящо за социални мрежи, професионални профили (LinkedIn, Instagram, Facebook и др.), лични брандове или просто за спомен.\n\n"
+        text: "Естествени и емоционални портрети сред красиви пейзажи и градски локации, с внимание към детайла и атмосферата.\_ Подходящо за социални мрежи, професионални профили (LinkedIn, Instagram, Facebook и др.), лични брандове или просто за спомен.\n\n"
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/unnamed.jpg
           altText: Placeholder text
           styles:
             self:
@@ -84,13 +84,13 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Фотосесия – портрети на открито
+        title: Снимки в студио
         tagline: ''
         subtitle: ''
-        text: "Естествени и емоционални портрети сред красиви пейзажи и градски локации, с внимание към детайла и атмосферата.\_ Подходящо за социални мрежи, професионални профили (LinkedIn, Instagram, Facebook и др.), лични брандове или просто за спомен.\n\n"
+        text: "Професионални студийни фотосесии с контролирано осветление и фонове, за постигане на перфектната визия.\_\_Подходящо за социални мрежи, професионални профили (LinkedIn, Instagram, Facebook и др.), лични брандове или просто за спомен.\n\n"
         image:
           type: ImageBlock
-          url: /images/unnamed.jpg
+          url: /images/abstract-feature1.svg
           altText: Placeholder text
           styles:
             self:
