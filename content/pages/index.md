@@ -644,11 +644,23 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Готов съм да сътрудничам по вашия следващ проект
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      ### 
+      Локация
+
+      Работя в цяла България
+
+      **
+
+      ### Телефон
+
+      +359 88 123 4567
+
+      **
+
+      ### Имейл
+
+      Framesbyvlad\@gmail.com
     media:
       fields:
         - name: name
