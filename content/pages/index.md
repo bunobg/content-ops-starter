@@ -266,16 +266,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - subtitle: ''
     text: >+
       Здравей, аз съм Влад. Започнах да снимам още като дете и никога не спрях.
@@ -320,6 +310,16 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: GenericSection
     title:
       text: Generic section with a video
