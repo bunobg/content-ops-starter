@@ -659,7 +659,7 @@ sections:
     media:
       fields:
         - name: Име
-          label: Name
+          label: ИМЕ
           hideLabel: true
           placeholder: Your name
           isRequired: true
