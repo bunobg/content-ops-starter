@@ -136,7 +136,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Дрон фотография
-        tagline: T
+        tagline: ''
         subtitle: ''
         text: "Въздушни снимки с уникална перспектива за пейзажи, събития или обекти, заснети от височина\_\n\n"
         image:
