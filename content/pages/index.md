@@ -661,7 +661,7 @@ sections:
         - name: Име
           label: ИМЕ
           hideLabel: true
-          placeholder: Your name
+          placeholder: Вашето име
           isRequired: true
           width: full
           type: TextFormControl
