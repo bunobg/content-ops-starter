@@ -645,22 +645,17 @@ sections:
       type: TitleBlock
     subtitle: Готов съм да сътрудничам по вашия следващ проект
     text: |
-      ### 
       Локация
 
       Работя в цяла България
-
-      **
 
       ### Телефон
 
       +359 88 123 4567
 
-      **
-
       ### Имейл
 
-      Framesbyvlad\@gmail.com
+      <Framesbyvlad@gmail.com>
     media:
       fields:
         - name: name
