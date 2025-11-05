@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Снимки в студио
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: "Професионални студийни фотосесии с контролирано осветление и фонове, за постигане на перфектната визия.\_\_Подходящо за социални мрежи, професионални профили (LinkedIn, Instagram, Facebook и др.), лични брандове или просто за спомен.\n\n"
         image:
