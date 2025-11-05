@@ -64,8 +64,7 @@ sections:
         title: Снимки в студио
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "Професионални студийни фотосесии с контролирано осветление и фонове, за постигане на перфектната визия.\_\_Подходящо за социални мрежи, професионални профили (LinkedIn, Instagram, Facebook и др.), лични брандове или просто за спомен.\n\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
