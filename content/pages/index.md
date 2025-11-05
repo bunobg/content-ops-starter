@@ -668,7 +668,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Вашият email
           isRequired: true
           width: full
           type: EmailFormControl
