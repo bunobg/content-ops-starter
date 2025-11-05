@@ -46,6 +46,10 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - title:
       text: Grow your business 10x faster
       color: text-dark
