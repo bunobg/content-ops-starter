@@ -238,7 +238,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/unnamed (5).jpg
           altText: Placeholder text
           styles:
             self:
