@@ -247,25 +247,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - subtitle: ''
     text: >+
       Здравей, аз съм Влад. Започнах да снимам още като дете и никога не спрях.
@@ -310,6 +291,25 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
