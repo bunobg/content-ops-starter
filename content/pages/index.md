@@ -138,8 +138,7 @@ sections:
         title: Дрон фотография
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "Въздушни снимки с уникална перспектива за пейзажи, събития или обекти, заснети от височина\_\n\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
