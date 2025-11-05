@@ -319,7 +319,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - subtitle: Increase your reach
+  - subtitle: ''
     text: >+
       Здравей, аз съм Влад. Започнах да снимам още като дете и никога не спрях.
       С годините се озовах зад кулисите на филми, сериали и реклами, работейки в
