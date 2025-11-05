@@ -61,7 +61,7 @@ sections:
     subtitle: Какво мога да предложа за вашия специален момент
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Снимки в студио
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
