@@ -109,7 +109,7 @@ sections:
       - type: FeaturedItem
         title: Събития
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Заснемам различни събития – от сватби и рождени дни, до фирмени
           тиймбилдинги и концерти. Стремя се да уловя атмосферата, емоциите и
