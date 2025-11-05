@@ -212,7 +212,7 @@ sections:
       - type: FeaturedItem
         title: Зад кадър
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: "Истинските моменти зад камерата – процесът на работа, емоциите и забавните ситуации по време на снимки.\_\n\n"
         image:
           type: ImageBlock
