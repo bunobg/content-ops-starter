@@ -211,7 +211,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Зад кадър
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: "Истинските моменти зад камерата – процесът на работа, емоциите и забавните ситуации по време на снимки.\_\n\n"
         image:
