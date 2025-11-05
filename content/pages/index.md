@@ -270,7 +270,7 @@ sections:
         text: "Истинските моменти зад камерата – процесът на работа, емоциите и забавните ситуации по време на снимки.\_\n\n"
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/unnamed (6).jpg
           altText: Placeholder text
           styles:
             self:
