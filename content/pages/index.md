@@ -319,11 +319,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Social Media Managemen
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
+  - subtitle: Increase your reach
     text: >+
       Здравей, аз съм Влад. Започнах да снимам още като дете и никога не спрях.
       С годините се озовах зад кулисите на филми, сериали и реклами, работейки в
