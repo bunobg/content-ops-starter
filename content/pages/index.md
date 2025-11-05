@@ -90,7 +90,7 @@ sections:
         text: "Професионални студийни фотосесии с контролирано осветление и фонове, за постигане на перфектната визия.\_\_Подходящо за социални мрежи, професионални профили (LinkedIn, Instagram, Facebook и др.), лични брандове или просто за спомен.\n\n"
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/unnamed (1).jpg
           altText: Placeholder text
           styles:
             self:
