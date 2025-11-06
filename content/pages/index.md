@@ -557,7 +557,7 @@ sections:
     subtitle: Блог
     items:
       - title: Как да се подготвиш за фотосесия – моите 7 лесни съвета
-        tagline: This is the tagline
+        tagline: Как да се подготвиш за фотосесия – моите 7 лесни съвета
         subtitle: This is the item subtitle
         text: ''
         image:
