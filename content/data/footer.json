@@ -42,7 +42,7 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
+                "label": "Зад кадър",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
