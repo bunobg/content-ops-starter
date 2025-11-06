@@ -20,7 +20,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: ВИЖ ПОВЕЧЕ
         url: /
         icon: arrowRight
         iconPosition: right
