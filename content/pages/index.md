@@ -556,7 +556,7 @@ sections:
       type: TitleBlock
     subtitle: Блог
     items:
-      - title: Feature Item One
+      - title: Как да се подготвиш за фотосесия – моите 7 лесни съвета
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |+
