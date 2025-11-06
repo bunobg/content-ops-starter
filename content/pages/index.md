@@ -582,7 +582,7 @@ sections:
           5 причини да заснемеш видеоклип за бизнеса си (и защо е важно точно
           сега)
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           url: /images/abstract-feature2.svg
