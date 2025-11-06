@@ -560,9 +560,7 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |+
-          # Как да се подготвиш за фотосесия – моите 7 лесни съвета
-
-
+          # с
 
         image:
           url: /images/abstract-feature1.svg
