@@ -581,7 +581,7 @@ sections:
       - title: >-
           5 причини да заснемеш видеоклип за бизнеса си (и защо е важно точно
           сега)
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: ''
         image:
