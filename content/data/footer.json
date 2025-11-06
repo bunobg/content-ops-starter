@@ -62,7 +62,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Блог",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
