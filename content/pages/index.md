@@ -559,9 +559,7 @@ sections:
       - title: Как да се подготвиш за фотосесия – моите 7 лесни съвета
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |+
-          #
-
+        text: ''
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
