@@ -548,7 +548,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Истории зад кадъра – Съвети за фотография и видеозаснемане
       color: text-primary
       styles:
         self:
