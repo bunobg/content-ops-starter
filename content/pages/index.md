@@ -560,7 +560,7 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |+
-          # с
+          #
 
         image:
           url: /images/abstract-feature1.svg
