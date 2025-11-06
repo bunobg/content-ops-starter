@@ -43,7 +43,7 @@
         "links": [
             {
                 "label": "Зад кадър",
-                "altText": "careers page",
+                "altText": "Зад кадър",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
